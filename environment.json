@@ -1,0 +1,26 @@
+{
+	"id": "2f3ec4f3-2087-4d3e-a4af-8fbaef18dc8c",
+	"name": "Trello_Ruslan_env",
+	"values": [
+		{
+			"key": "BaseUrl",
+			"value": "https://api.trello.com/1",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "id_board",
+			"value": "6500b1db9736e651a2096e5a",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "id_member",
+			"value": "ruslanm32",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2023-09-23T04:57:34.724Z",
+	"_postman_exported_using": "Postman/10.18.2"
+}
